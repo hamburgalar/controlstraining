@@ -9,4 +9,7 @@ dumpster fire of a program, in which case i apologize after the fact.
 given more time and more optimal conditions, i think i would have been able to do a lot better and quite easily make a program that actually works. this is
 from the most complicated robot i've programmed, as ms granlund's poe class last school year did quite a lot of controls work(in robotC and not java,
 but that's a pretty minor difference). i have pages of notes on sensors, circuits, motors, PID, and other concepts that ms granlund threw at us. it was,
-without a doubt, my favorite unit in poe.
+without a doubt, my favorite unit in poe. long story short, i'm a big fan of controls.
+
+by no means am i trying to make excuses or divert attention or anything, though. my code seriously sucks. sorry. maybe you can get a few laughs
+out of it though.
