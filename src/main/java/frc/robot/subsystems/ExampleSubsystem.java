@@ -23,7 +23,6 @@ import edu.wpi.first.wpilibj.TimedRobot;
 
 //hi im victor dang welcome to my program
 //im so so sorry for what you're about to see
-//in my defense i had like six thousand tests/quizzes this thursday and friday plus rep parts and oracle production on top of that
 //at the very most, one percent of this accursed thing functions the way it is intended to
 //hi kevin
 
